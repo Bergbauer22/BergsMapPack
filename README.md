@@ -5,7 +5,7 @@
 
 <h1 align="center">BergsMapPack</h1>
 
-#General
+# General
 This mod introduces two new maps with unique features. I want that all of this Maps are beatable in every difficult without any other mods and that every map have something special.
 <h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/Bergbauer22/BergsMapPack/total?label=Total%20Dowloads"></h1>
 # Moonway
